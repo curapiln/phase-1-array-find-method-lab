@@ -37,7 +37,7 @@ const record = [
 ]
 ```
 
-Write a function called `superbowlWin()` in `index.js`:
+Write a function called `superbowlWin)` in `index.js`:
 
 * The function should receive 1 argument, an `Array` of JavaScript `Object`s
 * Each object has two properties: `year` and `result`
